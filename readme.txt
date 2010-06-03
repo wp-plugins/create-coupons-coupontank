@@ -1,4 +1,4 @@
-=== Recent Comments ===
+=== CouponTank Coupons ===
 Contributors: CouponTank
 Tags: coupon, promotional, advertisment
 Stable tag: trunk
