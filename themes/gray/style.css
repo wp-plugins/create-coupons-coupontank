@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.ctModule { border:solid 1px #000; width:218px; font-family:Arial, Helvetica, sans-serif; background:#f6f6f6; }
+.ctModule h4 {display: none;}
+.ctModule h1 { background:#000; color:#fff; font-weight:bold; font-size:16px; padding:5px 0 0 8px; margin:0 0 2px 0; height:23px; }
+.ctModule ul { font-size:14px; list-style:none; padding:0 8px 10px 8px; margin:0px; }
+.ctModule ul li { background: none; border-bottom:solid 1px #b2b2b2; padding:12px 4px; }
+.ctModule ul li.last { border:none; }
+.ctModule ul li a { text-decoration:none; }
+.ctModule ul li a:hover { text-decoration:underline; }
+.ctModule ul li span { display:block; font-size:12px; color:#403b35; }
+.ctModule ul li span.desc {  }
+.ctModule ul li span.code { font-weight:bold; padding:4px 0 0 0; }
+
+.ctModule.style { border-color:#4d4d4d; }
+.ctModule.style h1 { background:#4d4d4d; }
+.ctModule.style ul li a { color:#4d4d4d; }
+
