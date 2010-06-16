@@ -17,7 +17,14 @@ $coupontank = array(
   'theme' => 'red'
 );
 
-You may change your theme color, or skin the coupon module with your own CSS.
+You may change your theme, or skin the coupon module with your own CSS.
+Themes are kept in the ct-coupons/themes directory, and the name of the theme
+you will enter in "'theme' => 'themeName'" is the directory name from the themes
+directory.  CouponTank provides some pre-made themes for you, they are as
+follows: blue, gray, green, purple, red, yellow
+
+You may create your own theme if these themes are not appropriate for your
+needs.
 
 4. Upload the plugin `ct-coupons/` to the `/wp-content/plugins/` directory
 5. Activate the plugin through the 'Plugins' menu in WordPress
