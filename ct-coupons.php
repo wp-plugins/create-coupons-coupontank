@@ -72,7 +72,7 @@ function ct_coupon_css() {
     global $coupontank;
     $theme = $coupontank['theme'];
     ?>
-    <link href='<?php echo $siteurl; ?>/wp-content/plugins/ct-coupons/themes/<?php echo $theme; ?>/style.css' rel="stylesheet" type="text/css" />
+    <link href='<?php echo $siteurl; ?>/wp-content/plugins/create-coupons-coupontank/themes/<?php echo $theme; ?>/style.css' rel="stylesheet" type="text/css" />
     <?
 }
 
