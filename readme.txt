@@ -7,7 +7,7 @@ Instantly displays coupons that you create using www.coupontank.com
 
 == Installation ==
 1. Download the plugin
-2. Sign up for a www.coupontank.com account
+2. Sign up for a www.coupontank.com account that has application support.
 3. Install your coupontank plugin
 4. Open your plugin files and change the subdomain to your coupontank subdomain.
 
@@ -15,3 +15,5 @@ Instantly displays coupons that you create using www.coupontank.com
 $coupontank = array(
   'subdomain' => 'sample'
 );
+
+5. Activate your coupontank plugin.
