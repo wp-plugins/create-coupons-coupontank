@@ -30,5 +30,3 @@ function ct_draw_tab() {
 
 add_action('wp_footer', 'ct_draw_tab');	
 
-?>
-
