@@ -23,7 +23,7 @@ function ct_draw_tab() {
 <link href="http://<?=$coupontank['subdomain']?>.coupontank.com/Tab/css.css" rel="stylesheet" type="text/css" /> 
 <div class="coupon-panel"> 
   <img src="http://<?=$coupontank['subdomain']?>.coupontank.com/Tab/image.png" id="coupon-panel-tab"/> 
-  <iframe width="490" height="420" rel="http://<?=$coupontank['subdomain']?>.coupontank.com/tab" scrollbar="no" marginwidth="0" marginheight="0" hspace="0" align="middle" frameborder="0"></iframe> 
+  <iframe width="490" height="420" rel="http://<?=$coupontank['subdomain']?>.coupontank.com/plugin?wordpress=1" scrollbar="no" marginwidth="0" marginheight="0" hspace="0" align="middle" frameborder="0"></iframe> 
 </div> 
 <?
 }
