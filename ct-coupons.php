@@ -3,7 +3,7 @@
 Plugin Name: CoupontankCoupons
 Plugin URI: http://www.coupontank.com/signup/
 Description: Retrieves a list of coupons that you design with coupontank.com
-Version: 2.0.2
+Version: 2.0.3
 Author: CouponTank.com
 Author URI: http://www.coupontank.com/
 */
