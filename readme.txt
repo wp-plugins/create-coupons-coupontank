@@ -6,6 +6,8 @@ Stable tag: trunk
 Instantly displays coupons that you create using www.coupontank.com
 
 == Installation ==
+Signup for a coupontank "Professional" or "Commercial" account, free for one month.
+
 1. Download the CouponTank plugin from : http://wordpress.org/extend/plugins/create-coupons-coupontank/ Login to your wordpress account as an administrator. Open the 'Plugins' panel, and click 'Add New'
 
 2. Now choose 'Upload' from the menu
