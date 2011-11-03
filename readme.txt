@@ -1,5 +1,5 @@
-=== CouponTank Coupons ===
-Contributors: CouponTank
+=== Coupontank Coupons ===
+Contributors: Coupontank
 Tags: coupon, promotional, advertisements
 Stable tag: trunk
 
@@ -8,7 +8,7 @@ Instantly displays coupons that you create using www.coupontank.com
 == Installation ==
 Signup for a coupontank "Professional" or "Commercial" account, free for 15 days (no credit card required).
 
-1. Download the CouponTank plugin from : http://wordpress.org/extend/plugins/create-coupons-coupontank/ Login to your wordpress account as an administrator. Open the 'Plugins' panel, and click 'Add New'
+1. Download the Coupontank plugin from : http://wordpress.org/extend/plugins/create-coupons-coupontank/ Login to your wordpress account as an administrator. Open the 'Plugins' panel, and click 'Add New'
 
 2. Now choose 'Upload' from the menu
 
@@ -25,7 +25,7 @@ Signup for a coupontank "Professional" or "Commercial" account, free for 15 days
 
 == Screenshots ==
 
-1. Download the CouponTank plugin from : http://wordpress.org/extend/plugins/create-coupons-coupontank/ Login to your wordpress account as an administrator. Open the 'Plugins' panel, and click 'Add New'
+1. Download the Coupontank plugin from : http://wordpress.org/extend/plugins/create-coupons-coupontank/ Login to your wordpress account as an administrator. Open the 'Plugins' panel, and click 'Add New'
 
 2. Now choose 'Upload' from the menu
 
