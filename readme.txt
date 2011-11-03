@@ -16,15 +16,16 @@ Signup for a coupontank "Professional" or "Commercial" account, free for 15 days
 
 4. After the plugin is finished installing, click on 'Activate'
 
-5. Where CoupontankCoupons is listed, choose 'Edit'
+5. Open 'Settings' from your wordpress menu and click on 'Coupontank Coupons'
 
-6. Change the subdomain from 'sample' to your coupontank subdomain, that you signed up with at www.coupontank.com
+6. Change the subdomain to your coupontank subdomain, that you signed up with at www.coupontank.com and click update.
 
-7. Click 'Update File'.  Your coupontank app coupons for wordpress will now display in the coupontank tab.
+7. You can also login to your coupontank account under these options and update your wordpress settings.
 
 
 == Screenshots ==
-1. Download the CouponTank plugin from : http://wordpress.org/extend/plugins/create-coupons-coupontank/ . Login to your wordpress account as an administrator. Open the 'Plugins' panel, and click 'Add New'
+
+1. Download the CouponTank plugin from : http://wordpress.org/extend/plugins/create-coupons-coupontank/ Login to your wordpress account as an administrator. Open the 'Plugins' panel, and click 'Add New'
 
 2. Now choose 'Upload' from the menu
 
@@ -32,10 +33,10 @@ Signup for a coupontank "Professional" or "Commercial" account, free for 15 days
 
 4. After the plugin is finished installing, click on 'Activate'
 
-5. Where CoupontankCoupons is listed, choose 'Edit'
+5. Open 'Settings' from your wordpress menu and click on 'Coupontank Coupons'
 
-6. Change the subdomain from 'sample' to your coupontank subdomain, that you signed up with at www.coupontank.com
+6. Change the subdomain to your coupontank subdomain, that you signed up with at www.coupontank.com and click update.
 
-7. Click 'Update File'.  Your coupontank app coupons for wordpress will now display in the coupontank tab.
+7. You can also login to your coupontank account under these options and update your wordpress settings.
 
 
