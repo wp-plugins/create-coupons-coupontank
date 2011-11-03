@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: CoupontankCoupons
+Plugin Name: Coupontank Coupons
 Plugin URI: http://www.coupontank.com/signup/
 Description: Retrieves a list of coupons that you design with coupontank.com
 Version: 2.1.0
